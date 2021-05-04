@@ -5,7 +5,8 @@ body {
 .container {
     /* align-items: center; */
     position: relative;
-    margin-top: 250px;
+    margin-top: 10px;
+    height: 200px;
 }
 
 .center {
@@ -88,4 +89,12 @@ body {
 
 .pushable:focus:not(:focus-visible) {
     outline: none;
+}
+
+.img-fluid {}
+
+.img-fluid img {
+    width: auto;
+    height: 100%;
+    margin-left: -50px;
 }
