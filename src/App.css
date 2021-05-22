@@ -1,12 +1,4 @@
-@import url('https://fonts.googleapis.com/');
-
-
-* {
-  font-family: -apple-system, Raleway, 'Roboto', 'Poppins', 'Nunito';
-  margin: 10px;
-}
-
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -43,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
